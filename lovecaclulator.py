@@ -24,4 +24,6 @@ if (score<100)or(score>80):
 elif(score>50) and (score<79):
     print(f'You go all right. Your score is {score}') 
 else:
-    print('Your score is {score}')       
+    print('Your score is {score}')
+
+
