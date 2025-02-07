@@ -1,3 +1,4 @@
+
 #love calculator
 print("welcome user")
 name1=input("enter the name1")
